@@ -1,0 +1,28 @@
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\bin\Release\Rectangles.exe
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\bin\Release\Rectangles.pdb
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Release\Views\MainWindow.baml
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Release\Views\MainWindow.g.cs
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Release\App.g.cs
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Release\Rectangles_MarkupCompile.cache
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Release\Rectangles.g.resources
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Release\Rectangles.Properties.Resources.resources
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Release\Rectangles.csproj.GenerateResource.Cache
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Release\Rectangles.exe
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Release\Rectangles.pdb
+C:\Users\adam.TCCS\Documents\Visual Studio 2010\Projects\Rectangles\Rectangles\obj\x86\Release\Views\LogView.baml
+C:\Users\adam.TCCS\Documents\Visual Studio 2010\Projects\Rectangles\Rectangles\obj\x86\Release\Views\LogView.g.cs
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\Rectangles.exe
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\Rectangles.pdb
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\Rectangles.csprojResolveAssemblyReference.cache
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\Views\LogView.baml
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\Views\MainWindow.baml
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\Views\LogView.g.cs
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\Views\MainWindow.g.cs
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\App.g.cs
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\Rectangles_MarkupCompile.cache
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\Rectangles.g.resources
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\Rectangles.Properties.Resources.resources
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\obj\x86\Release\Rectangles.csproj.GenerateResource.Cache
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\bin\Release\Rectangles.exe
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\bin\Release\Rectangles.pdb
+C:\RectanglesAssignment\Rectangles\Rectangles-master\Rectangles\bin\Release\Rectangles.exe.config

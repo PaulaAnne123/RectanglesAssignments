@@ -1,0 +1,11 @@
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\bin\Debug\Rectangles.exe
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\bin\Debug\Rectangles.pdb
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\App.g.cs
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles_MarkupCompile.cache
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.g.resources
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.Properties.Resources.resources
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.csproj.GenerateResource.Cache
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.exe
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.pdb
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Views\MainWindow.baml
+c:\users\adam.tccs\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Views\MainWindow.g.cs
